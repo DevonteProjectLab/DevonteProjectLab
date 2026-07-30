@@ -1,4 +1,4 @@
-<h1>Hi, I'm Devonte — Building <br/><a href="https://github.com/joshmadakor1">Security Labs</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Detections</a>, and IR Playbooks
+<h1>Hi, I'm Devonte — Building <br/><a href="https://github.com/DevonteProjectLab">Security Labs</a>, <a href="https://www.linkedin.com/in/devonte-brown-2aa8b7241/">Detections</a>, and IR Playbooks
 
 <h2>I'm a beginner cybersecurity professional building SOC labs that capture real attacker activity and generate Azure Sentinel detections. I learn by creating honeypots, detections, dashboards, TI workflows, and IR processes to develop end‑to‑end security skills.</h2>
 
