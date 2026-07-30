@@ -1,7 +1,51 @@
-## Hi there 👋
+<h1>Hi, I'm Devonte — Building <br/><a href="https://github.com/joshmadakor1">Security Labs</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Detections</a>, and IR Playbooks
+
+<h2>I'm a beginner cybersecurity professional building SOC labs that capture real attacker activity and generate Azure Sentinel detections. I learn by creating honeypots, detections, dashboards, TI workflows, and IR processes to develop end‑to‑end security skills.</h2>
+
+My goal is to grow into a **SOC Analyst / Security Engineer / Cloud Security Professional** by developing hands-on projects that demonstrate real attacker telemetry, Azure Sentinel detections, and end-to-end security operations. 
+
+---
+
+<b>🔥 Featured Cybersecurity Project  
+ **Azure Sentinel/Defender Honeypot Detection Lab**
+A full end-to-end SOC lab designed to capture **real attacker activity** and transform it into **detections, dashboards, threat intelligence, and incident response workflows**.
+
+**What I built: **
+- Exposed Windows honeypot VM to collect real attacker telemetry
+- Sysmon + AMA logging pipeline into Azure Sentinel  
+- KQL detections for brute force, privilege escalation, suspicious processes, and account abuse  
+- SOC dashboards visualizing attacker behavior    
+- IR playbooks documenting evidence, timelines, and response actions  
+
+This project demonstrates my ability to design, deploy, and operate a **complete SOC ecosystem** from scratch.
+
+---
+
+## 🛠️ Cybersecurity Projects (More Coming Soon)
+As I continue learning, I’ll be adding more labs and tools here, including:
+
+- Threat Intelligence Enrichment Pipeline  
+- Incident Response Attack Simulation Lab  
+- Vulnerability Management Lab  
+- Detection Engineering Library (KQL, Sigma, Sysmon configs)  
+- Automation Scripts (PowerShell & Python)
+
+---
+
+## 📚 What I'm Learning
+- Azure Sentinel & Microsoft Defender  
+- KQL detection engineering  
+- Windows event logging & Sysmon  
+- Threat intelligence workflows  
+- Incident response fundamentals  
+- Cloud security architecture  
+
+---
+
+## 🤝 Connect With Me
 
 <!--
-**DevonteProjectLab/DevonteProjectLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
