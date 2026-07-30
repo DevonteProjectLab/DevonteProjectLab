@@ -7,7 +7,7 @@ My goal is to grow into a **SOC Analyst / Security Engineer / Cloud Security Pro
 ---
 <br>
 
-<h2>🔥 Featured Cybersecurity Project</h2>  
+<h1><br/><a href="https://github.com/DevonteProjectLab/AzureHoneypotLab">🔥 Featured Cybersecurity Project</a></h2>
  **Azure Sentinel/Defender Honeypot Detection Lab**
 A full end-to-end SOC lab designed to capture **real attacker activity** and transform it into **detections, dashboards, threat intelligence, and incident response workflows**.
 
