@@ -5,8 +5,9 @@
 My goal is to grow into a **SOC Analyst / Security Engineer / Cloud Security Professional** by developing hands-on projects that demonstrate real attacker telemetry, Azure Sentinel detections, and end-to-end security operations. 
 
 ---
+<br>
 
-<b>🔥 Featured Cybersecurity Project  
+<h2>🔥 Featured Cybersecurity Project</h2>  
  **Azure Sentinel/Defender Honeypot Detection Lab**
 A full end-to-end SOC lab designed to capture **real attacker activity** and transform it into **detections, dashboards, threat intelligence, and incident response workflows**.
 
@@ -21,7 +22,7 @@ This project demonstrates my ability to design, deploy, and operate a **complete
 
 ---
 
-## 🛠️ Cybersecurity Projects (More Coming Soon)
+<h2>🛠️ Cybersecurity Projects (More Coming Soon)</h2>
 As I continue learning, I’ll be adding more labs and tools here, including:
 
 - Threat Intelligence Enrichment Pipeline  
